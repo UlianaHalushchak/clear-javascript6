@@ -1,0 +1,16 @@
+//оголошую змінні age, name, skills, встановлюю для них одне значення
+let age = name = skills = 5478;
+//виводжу змінні
+console.log("age = " + age + "\nname = " + name + "\nskills = " + skills);
+//отримую age = 5478
+//name = 5478
+//skills = 5478
+
+//встановлюю для кожної змінної різні значення
+age = 30;
+name = "Olya";
+three = true;
+console.log("age = " + age+ "\nname = " + name + "\nskills = " + skills);
+//отримую age = 30
+//name = Olya
+//skills = 5478
