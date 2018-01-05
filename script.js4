@@ -1,0 +1,7 @@
+//присвоюю значення змінним
+let first = "JavaScript";
+var second = "courses";
+//записую результат склеювання двох рядків
+var result = first + " " + second;
+//виводжу в консоль
+console.log(result);
